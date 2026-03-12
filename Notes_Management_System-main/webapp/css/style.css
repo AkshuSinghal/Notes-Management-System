@@ -1,0 +1,8 @@
+.bg-custom{
+	background: #030ffc;
+}
+.div-color{
+	background-image: linear-gradient(to right, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+	width: 100%;
+	height: 100vh;
+}
